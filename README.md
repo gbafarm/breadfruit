@@ -1,4 +1,3 @@
-WELCOME TO GBA FARMS
 <html lang="en">
 <head>
     <meta charset="UTF-8">
