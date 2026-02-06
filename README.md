@@ -1,5 +1,5 @@
 
- 
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GREENVALE BINHI ARC FARMS - Breadfruit Research & Trading</title>
     <meta name="description" content="GREENVALE BINHI ARC FARMS specializes in research, propagation, and trading of Breadfruit. Sustainable agriculture in the Philippines.">
